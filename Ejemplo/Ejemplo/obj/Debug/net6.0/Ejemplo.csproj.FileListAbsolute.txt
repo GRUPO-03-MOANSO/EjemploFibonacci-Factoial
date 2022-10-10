@@ -1,0 +1,15 @@
+D:\Repositorio\EjemploGit\Ejemplo\Ejemplo\bin\Debug\net6.0\Ejemplo.exe
+D:\Repositorio\EjemploGit\Ejemplo\Ejemplo\bin\Debug\net6.0\Ejemplo.deps.json
+D:\Repositorio\EjemploGit\Ejemplo\Ejemplo\bin\Debug\net6.0\Ejemplo.runtimeconfig.json
+D:\Repositorio\EjemploGit\Ejemplo\Ejemplo\bin\Debug\net6.0\Ejemplo.dll
+D:\Repositorio\EjemploGit\Ejemplo\Ejemplo\bin\Debug\net6.0\Ejemplo.pdb
+D:\Repositorio\EjemploGit\Ejemplo\Ejemplo\obj\Debug\net6.0\Ejemplo.csproj.AssemblyReference.cache
+D:\Repositorio\EjemploGit\Ejemplo\Ejemplo\obj\Debug\net6.0\Ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio\EjemploGit\Ejemplo\Ejemplo\obj\Debug\net6.0\Ejemplo.AssemblyInfoInputs.cache
+D:\Repositorio\EjemploGit\Ejemplo\Ejemplo\obj\Debug\net6.0\Ejemplo.AssemblyInfo.cs
+D:\Repositorio\EjemploGit\Ejemplo\Ejemplo\obj\Debug\net6.0\Ejemplo.csproj.CoreCompileInputs.cache
+D:\Repositorio\EjemploGit\Ejemplo\Ejemplo\obj\Debug\net6.0\Ejemplo.dll
+D:\Repositorio\EjemploGit\Ejemplo\Ejemplo\obj\Debug\net6.0\refint\Ejemplo.dll
+D:\Repositorio\EjemploGit\Ejemplo\Ejemplo\obj\Debug\net6.0\Ejemplo.pdb
+D:\Repositorio\EjemploGit\Ejemplo\Ejemplo\obj\Debug\net6.0\Ejemplo.genruntimeconfig.cache
+D:\Repositorio\EjemploGit\Ejemplo\Ejemplo\obj\Debug\net6.0\ref\Ejemplo.dll
